@@ -1,4 +1,4 @@
-This Next.js 14 application showcases a proof-of-concept where React.js' streaming SSR infrastructure (Fizz) is being used in conjunction with GraphQL's `@defer` and the Relay.js GraphQL client to stream deferred GraphQL responses and the components rendering them to a client, all while hydrating Relay.js' store correctly.
+This Next.js 15 application showcases a proof-of-concept where React.js' streaming SSR infrastructure (Fizz) is being used in conjunction with GraphQL's `@defer` and the Relay.js GraphQL client to stream deferred GraphQL responses and the components rendering them to a client, all while hydrating Relay.js' store correctly.
 
 ## How it works
 
